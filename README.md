@@ -1,4 +1,8 @@
-# FiveM to Discord converted by Tr1s
+# FiveM to Discord converted by Tr1s <br>
+
+Change the config in **__config.js__** to use <br>
+If you're not using qb-ambulancejob then you need to change the __**__config.lua__**__ too
+
 **Commands Availble :**<br>
 \>tele \<id> <x> <y> <z><br>
 \>teleto \<id> <location><br>
