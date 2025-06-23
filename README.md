@@ -1,3 +1,5 @@
+# Outdated
+
 # FiveM to Discord converted by chezis <br>
 
 Change the config in **__config.js__** to use <br>
